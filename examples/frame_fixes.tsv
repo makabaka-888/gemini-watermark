@@ -1,0 +1,6 @@
+# Input for gwstatic.py (5th argument).
+# frame<TAB>cx,cy,s -- clone-fill a moving sparkle of size s centred at cx,cy
+# in that frame (e.g. a source-image sparkle that fades out).
+0	1230,658,48
+1	1228,660,46
+2	1226,662,44

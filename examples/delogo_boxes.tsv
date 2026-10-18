@@ -1,0 +1,4 @@
+# Input for repair_delogo.py / mplate_fix.py / run_repairs.py.
+# name<TAB>x,y,w,h[;x,y,w,h...] -- ffmpeg delogo boxes used on that video.
+example_clip.mp4	1080,588,140,72
+example_clip2.mp4	1090,578,130,72;40,40,120,60

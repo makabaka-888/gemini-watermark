@@ -1,0 +1,4 @@
+# Copy to ../overrides.tsv to use. gwclean.py reads it.
+# name<TAB>x,y,w,h -- extra rectangles to clone-fill (a watermark the model
+# re-drew as an emblem, which no sparkle template matches). One per line.
+example_image.jpg	969,371,55,58

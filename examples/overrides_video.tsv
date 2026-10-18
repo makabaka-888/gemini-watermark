@@ -1,0 +1,5 @@
+# Copy to ../overrides_video.tsv to use. gwvideo.py reads it.
+# name<TAB>cx,cy,size     -- extra sparkle to clone-fill in every frame
+# name<TAB>skip:cx,cy     -- drop a false in-scene detection near that point
+example_clip.mp4	1173,672,49
+example_clip_with_hud.mp4	skip:1244,680
